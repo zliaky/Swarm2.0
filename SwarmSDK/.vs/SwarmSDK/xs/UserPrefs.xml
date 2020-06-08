@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9E9A427C-35CB-1F88-A178-5EF1B06FAC51}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ControlPanel.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SerialCommunication.cs" Line="27" Column="35" />
+      <File FileName="Assets/Scripts/InterfacesInfor.cs" Line="31" Column="44" />
+      <File FileName="Assets/Scripts/ControlPanel.cs" Line="18" Column="42" />
+      <File FileName="Assets/Scripts/showSliderValue.cs" Line="16" Column="96" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwarmSDK" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ControlPanel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="499e2a0c-841e-4bed-a958-9410b498c525" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
